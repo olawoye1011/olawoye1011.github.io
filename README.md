@@ -1,4 +1,4 @@
-# Data Analysis Portfolio
+# Data Analytics Portfolio
 
 # Project 1
 
