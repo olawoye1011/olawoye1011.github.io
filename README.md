@@ -13,3 +13,15 @@
 **Dashboard Overview:**
 
 ![Health_care_project.xlsx](Health_care.png)
+
+# Project 2
+
+**Title:** Data Definition Language-Employee records
+
+**SQL Code:** [DDL- Employee records sql code](https://github.com/olawoye1011/olawoye1011.github.io/blob/main/DDL.SQL)
+
+**SQL Skills Used:**
+
+**Project Description:**
+
+**Technology used:** SQL server
